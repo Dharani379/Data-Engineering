@@ -1,0 +1,8 @@
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,ETL job started
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,Exctraction Phase started
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,Extraction phase Ended
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,Tranformation phase started
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,Transformation phase Ended
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,Load phase started
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,Load phase Ended
+2025-Apr-2512:35:54year-month-day-hour-minutes-seconds,ETL Job Ended
